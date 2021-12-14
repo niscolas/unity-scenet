@@ -1,6 +1,6 @@
 {
-    "name": "Module.Tests",
-    "rootNamespace": "",
+    "name": "Scenet.Tests",
+    "rootNamespace": "Scenet.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"

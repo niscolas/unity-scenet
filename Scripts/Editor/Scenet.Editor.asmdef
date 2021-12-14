@@ -1,6 +1,6 @@
 {
-    "name": "Module.Editor",
-    "rootNamespace": "Module.Editor",
+    "name": "Scenet.Editor",
+    "rootNamespace": "Scenet.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
